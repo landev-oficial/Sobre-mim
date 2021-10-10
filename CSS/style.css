@@ -1,0 +1,33 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body {
+    background-color: black
+}
+
+#título {
+    text-align: center;
+    font-size: 35px;
+    color: antiquewhite;
+    font-style: italic;
+}
+
+.sub-título {
+    color: antiquewhite;
+    font-size: 20px;
+
+}
+
+.escrita {
+    font-size: 17px;
+    color: white;
+    font-style: italic;
+    text-align: justify;
+
+}
+
+#link {
+    font-style: none;
+}
